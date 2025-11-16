@@ -2,7 +2,7 @@
 I am a Data Scientist with a strong passion for turning data into actionable insights. With over one year of experience in data analysis and machine learning, I focus on building practical, impactful solutions that support smarter business decisions.
 
 
-## Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phat-nguyen-a264722b7) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@nguyn.tn.pht938) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanphat6406@gmail.com) 
 
 # Tech Stack:
